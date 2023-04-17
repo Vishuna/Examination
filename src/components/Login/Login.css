@@ -1,0 +1,44 @@
+
+label{
+
+    display: flex;
+    justify-content: flex-start;
+    margin-top:3px;
+}
+.img_col{
+    background-image: radial-gradient(#005A9C, white);
+    /* background-color: #f1f1f1; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+.login_col{
+    background-color: white;
+   
+}
+
+.login_btn{
+    margin-top:10%;
+    
+    
+}
+.input-container{
+    display: flex;
+    flex-direction: row;
+    padding: 3px;
+    
+
+}
+.f-icon{
+    margin-right: 4px;
+    margin-top: 5px;
+}
+
+.header{
+    margin-top:15%;
+}
+.main_section{
+    height:100vh;
+}
+

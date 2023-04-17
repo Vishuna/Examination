@@ -1,0 +1,23 @@
+.mainback_section{
+    height: 100vh;
+    width:100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#005A9C;
+}
+.container{
+   height:80vh;
+   width:60vw;
+   
+
+}
+.row{
+    height:100%;
+
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    
+   
+}

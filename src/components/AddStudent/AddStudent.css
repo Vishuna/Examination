@@ -1,0 +1,18 @@
+.form_data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:90vh;
+}
+.add_student_form{
+   margin-top:10px;
+   padding:30px;
+   border:1px solid grey;
+
+    
+}
+.form_data{
+    border:2px solid green;
+    display: flex;
+    flex-direction: column;
+}

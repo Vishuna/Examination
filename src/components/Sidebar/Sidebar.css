@@ -1,0 +1,22 @@
+.sidebar{
+    background-color: black;
+    height:100vh;
+    position:fixed;
+    top:0;
+    left:0;
+    padding:20px;
+}
+.sidebar_img{
+    height:20vh;
+    width:20vw;
+}
+.menu_item{
+    margin-top: 20px;
+    border: 2px solid red;
+    font-size:20px;
+}
+.sidebar_menu{
+    list-style-type:none;
+}
+
+

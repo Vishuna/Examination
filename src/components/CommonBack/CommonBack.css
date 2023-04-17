@@ -1,0 +1,24 @@
+.main_row{
+  height:100vh;
+  width:100vw;
+  margin:0px;
+  padding:0;
+  margin-left:0;
+  box-sizing:border-box;
+  background-color: black;
+}
+.main_container{
+  padding:0px;
+}
+.main_menu{
+  margin-top:15px;
+  padding:5px;
+}
+
+.menu_item{
+  margin-top:15px;
+  font-size: 1em;
+}
+.main_content_col{
+  padding:20px;
+}
